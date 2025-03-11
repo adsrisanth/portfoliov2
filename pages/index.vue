@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-950 w-screen h-screen">
-        Hi
+    <div class="bg-black w-screen h-screen">
+        Dinesh SriSanth Adari
     </div>
 </template>
